@@ -59,6 +59,5 @@ CurrencyConverter/
  ```
 6. Enter an amount, choose currencies, and click **Convert**
 
----
 
 
