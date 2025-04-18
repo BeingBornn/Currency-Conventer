@@ -49,15 +49,14 @@ CurrencyConverter/
 
 ## 🚀 How to Run
 
-1. Import the project into Eclipse as a **Dynamic Web Project**  
-2. Add the `json-20240303.jar` to `WEB-INF/lib`  
-3. Configure Apache Tomcat in Eclipse  
-4. Right-click project → `Run on Server`  
-5. Open browser:  
+1. Import the project into Eclipse as a **Dynamic Web Project**   
+2. Configure Apache Tomcat in Eclipse  
+3. Right-click project → `Run on Server`  
+4. Open browser:  
  ```
  http://localhost:8082/CurrencyConverter/index.html
  ```
-6. Enter an amount, choose currencies, and click **Convert**
+5. Enter an amount, choose currencies, and click **Convert**
 
 
 
