@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+background-color: rgb(49, 45, 45);
+font-Family: Arial;
+text-align: center;
+margin-top: 50px;
+}
+.container {
+	border: 2px solid black;
+	padding: 20px;
+	width: 300px;
+	margin: auto;
+}
+input, select, button{
+    width: 90%; /* = 270px (Leaves 15px of space on each side)*/
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.inline{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inline select{
+    width: 47%;
+}
